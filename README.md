@@ -1,5 +1,4 @@
-# MSI-GS65-CLOVER-hackintosh
-MSI GS65 9SE CLOVER hackintosh
+# MSI GS65 9SE CLOVER hackintosh
 
 + CPU: i7 9750h
 + GPU: 2060 (disable)
@@ -13,3 +12,6 @@ MSI GS65 9SE CLOVER hackintosh
 + 触控板打字误触
 + 睡眠发热严重
 + 随航不可用
+
+
+和8代的板子有些区别，仅9代可用。
