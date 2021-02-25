@@ -1,4 +1,5 @@
 # MSI GS65 9SE CLOVER hackintosh
+## 微星GS65 9SE 黑苹果clover EFI 和8代的板子有些区别，仅9代可用。
 
 + CPU: i7 9750h
 + GPU: 2060 (disable)
@@ -14,4 +15,4 @@
 + 随航不可用
 
 
-和8代的板子有些区别，仅9代可用。
+
