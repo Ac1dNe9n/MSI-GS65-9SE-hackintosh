@@ -5,14 +5,16 @@
 + GPU: 2060 (disable)
 + Memory: 16g
 + Disk: 1t SN550
-+ Network: dw1820a
-
-禁用了显卡，外接显示屏通过扩展坞走hdmi，网卡驱动正常，airdrop可用，蓝牙与5g稳定。
++ Network: dw1820a (everything working)
 
 ## 待解决问题：
-+ 触控板打字误触 (暂时无解 使用VOODOOI2C)
-+ ~~睡眠发热严重~~
-+ 随航不可用
++ 触控板打字误触 (暂时无解 使用VOODOOI2C，灵敏度较高)
++ 2060无法驱动，禁用
++ hdmi和dp接口无法直插，外接显示屏需要降低boardid版本，通过扩展坞走cpu。
++ ~~睡眠发热严重~~（定制usb解决）
++ ~~随航不可用~~（升级clover至最新版解决）
++ 更新bigsur 引导界面无法出现install macos big sur 
+
 
 
 
