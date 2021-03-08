@@ -493,6 +493,25 @@
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
+	<key>Quirks</key>
+	<dict>
+		<key>SetupVirtualMap</key>
+		<true/>
+		<key>DisableIoMapper</key>
+		<true/>
+		<key>EnableSafeModeSlide</key>
+		<true/>
+		<key>FuzzyMatch</key>
+		<true/>
+		<key>SyncRuntimePermissions</key>
+		<true/>
+		<key>AvoidRuntimeDefrag</key>
+		<true/>
+		<key>DisableLinkeditJettison</key>
+		<true/>
+		<key>EnableWriteUnprotector</key>
+		<true/>
+	</dict>
 	<key>Comment</key>
 	<string>This file is for 10.14.x with native CoffeeLake support</string>
 </dict>
