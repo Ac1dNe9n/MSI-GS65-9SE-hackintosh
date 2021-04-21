@@ -12,7 +12,7 @@
 + can't drive gtx2060 
 + Only external docking stations can use HDMI and DP
 + ~~didn't upgrade to oc.~~
-+ ~~can't upgrade to big sur.No logo named install macos big sur ~~(oc update successfully)
++ ~~can't upgrade to big sur.No logo named install macos big sur~~(oc update successfully)
 
 ## Notice
 + change usbports.kext to usbinjectall.kext before install
