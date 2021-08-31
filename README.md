@@ -1,4 +1,4 @@
-# MSI GS65 9SE OPENCORE and CLOVER hackintosh
+# MSI GS65 9SE OPENCORE and CLOVER hackintosh 微星GS65黑苹果oc efi
 ## MSI GS65-9se hackintosh EFI is different from the motherboard of the 8th generation, only the 9th generation is available.
 
 + CPU: i7 9750h
@@ -33,3 +33,4 @@
 ## 安装前记得重生生成三码
 ## 欢迎交流分享，帮助完善本机型 EFI
 ## Welcome to make contribution to GS65-9SE EFI
+## 已换机，efi后期不再更新
